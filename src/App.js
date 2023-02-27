@@ -1,11 +1,16 @@
-import React from 'react'
-import '../src/App.css'
-
+import React, { Component } from 'react';
+import Search from "../src/Components/Search/Search";
+import './App.css';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 
 const App = () => {
   return (
     <div>
-    <h1>Hello Suhail</h1>
+    <MuiThemeProvider>
+      <div>
+       <Search />
+       </div>
+      </MuiThemeProvider>
     </div>
   )
 }
