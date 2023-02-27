@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pixaby/static/css/main.92b782c7.css",
+    "main.js": "/pixaby/static/js/main.6700ed0c.js",
+    "index.html": "/pixaby/index.html",
+    "main.92b782c7.css.map": "/pixaby/static/css/main.92b782c7.css.map",
+    "main.6700ed0c.js.map": "/pixaby/static/js/main.6700ed0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b782c7.css",
+    "static/js/main.6700ed0c.js"
+  ]
+}
